@@ -1,2 +1,1 @@
-# imagesearch
-imagesearch for freecodecamp
+# Backend Challenges boilerplate - package.json
